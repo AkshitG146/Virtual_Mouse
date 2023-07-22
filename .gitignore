@@ -1,0 +1,21 @@
+/.idea
+/Bitwise_Operations.py
+/Blurring.py
+/Color Spaces.py
+/Color_Channels.py
+/Contours.py
+/draw.py
+/Edge_Detection.py
+/Face detection.py
+/face_recognition.py
+/Face_trained.py
+/face_trained.yml
+/features.npy
+/Fnctns.py
+/haarcascade_frontalface_default.xml
+/labels.npy
+/Photos
+/read.py
+/rescale.py
+/Transformations.py
+/Videos
